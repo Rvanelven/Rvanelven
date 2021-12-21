@@ -5,7 +5,7 @@
 
 ## About me
 <p>
-  I've Taking part in Le Wagon Lille Data Science Bootcamp in 2021, now im ready to found a Data Scientist job !
+  I've Taking part in Le Wagon Lille Data Science Bootcamp in 2021, now im ready to found a Data Analyst job !
   <br/>
 </p>
 
